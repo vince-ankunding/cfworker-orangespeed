@@ -25,7 +25,7 @@
    - 进入 Workers & Pages 页面
    - 点击「创建应用程序」
    - 选择「创建 Worker」
-   - 给 Worker 命名（如 `orangespeed`）
+   - 给 Worker 命名（不使用tv proxy字眼，如 `orangespeed`）
    - 将[本项目](https://github.com/vince-ankunding/cfworker-orangespeed/blob/main/worker.js)的完整代码复制到编辑器中
    - 点击「保存并部署」
    - 部署成功后，绑定自定义域名，访问自定义域`https://domain.com` 能成功打开
